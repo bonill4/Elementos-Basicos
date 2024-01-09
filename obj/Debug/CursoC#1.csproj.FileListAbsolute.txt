@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\CursoC#1\bin\Debug\CursoC#1.exe.config
+C:\Users\willi\source\repos\CursoC#1\bin\Debug\CursoC#1.exe
+C:\Users\willi\source\repos\CursoC#1\bin\Debug\CursoC#1.pdb
+C:\Users\willi\source\repos\CursoC#1\obj\Debug\CursoC#1.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\CursoC#1\obj\Debug\CursoC#1.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\CursoC#1\obj\Debug\CursoC#1.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\CursoC#1\obj\Debug\CursoC#1.exe
+C:\Users\willi\source\repos\CursoC#1\obj\Debug\CursoC#1.pdb
+C:\Users\willi\Documents\C#\CursoC#1\bin\Debug\CursoC#1.exe.config
+C:\Users\willi\Documents\C#\CursoC#1\bin\Debug\CursoC#1.exe
+C:\Users\willi\Documents\C#\CursoC#1\bin\Debug\CursoC#1.pdb
+C:\Users\willi\Documents\C#\CursoC#1\obj\Debug\CursoC#1.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\C#\CursoC#1\obj\Debug\CursoC#1.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\C#\CursoC#1\obj\Debug\CursoC#1.exe
+C:\Users\willi\Documents\C#\CursoC#1\obj\Debug\CursoC#1.pdb
